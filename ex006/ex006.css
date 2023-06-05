@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+.div{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0% auto;
+    padding: 5px;
+    
+}
+.titulo{
+    color: white;
+    text-align: center;
+    
+}
+button{
+    margin: 20px;
+}
+.rodape{
+    text-align: center;
+    color: white;
+}

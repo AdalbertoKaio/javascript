@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+.e{
+    color: white;
+    text-align: center;
+}
+.p{
+    border-radius: 10px;
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    margin: 0% auto;
+    padding: 5px;
+    text-align: center;
+}
+.d{
+    width:70% ;
+}

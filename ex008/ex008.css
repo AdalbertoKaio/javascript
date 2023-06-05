@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(91, 91, 218);
+}
+.dd{
+    color: white;
+    text-align: center;
+}
+.as{
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin: 0% auto;
+    padding: 5px;
+    text-align: center;
+}

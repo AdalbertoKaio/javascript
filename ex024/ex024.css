@@ -1,0 +1,19 @@
+body{
+    background-color: greenyellow;
+}
+.ex{
+    background-color: white;
+    border-radius: 10px;
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    margin: 0% auto;
+    padding: 5px;
+    text-align: center;
+}
+.oi{
+    text-align: center;
+}
+.pop{
+    text-align: center;
+}

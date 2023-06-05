@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+}
+.li{
+    color: white;
+    text-align: center;
+}
+.ed{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0% auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.rodape{
+    text-align: center;
+    color: white;
+}
+.time1{
+    font-size:larger;
+    margin-top: 50px;
+}
+.time2{
+    font-size:larger;   
+    margin-top: 50px;
+
+}
+.edd{
+    margin: 100px;
+    text-align: center;
+    margin: 50px;
+    color: blue;
+    font-size: xx-large;
+    text-shadow: 2px 2px 5px black;
+}
+.pp{
+    color: white;
+    background-color: blue;
+}
+.e{
+    color: white;
+    background-color: blue;
+}

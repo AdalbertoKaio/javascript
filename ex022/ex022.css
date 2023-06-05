@@ -1,0 +1,15 @@
+body{
+    background-color: greenyellow;
+}
+.e{
+    text-align: center;
+}
+.p{
+    border-radius: 10px;
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    margin: 0% auto;
+    padding: 5px;
+    text-align: center;
+}
